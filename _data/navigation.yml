@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home of Conde"
+    url: https://condepool.com
+  - title: "Fees"
+    url: /fees/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
