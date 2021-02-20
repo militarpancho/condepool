@@ -6,4 +6,8 @@ title: "Fees information"
 | ----------------|-------------|
 | Fixed Fee | 340 |
 | Variable Fee | 1 % |
-| Pledge | 1450 ADA |
+| Initial Pledge | 450 ADA |
+
+## ADAPools Live Stats
+
+{% include adapool_frame_2.html %}
