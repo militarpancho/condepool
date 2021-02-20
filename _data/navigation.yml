@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Fees"
     url: /fees/
+  - title: "Metrics"
+    url: /metrics/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
