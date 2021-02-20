@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home of Conde"
-    url: https://condepool.com
+    url: /about/
   - title: "Fees"
     url: /fees/
   # - title: "Sample Collections"
