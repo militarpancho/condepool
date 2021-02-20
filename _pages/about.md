@@ -4,6 +4,7 @@ title: "Stake Pool Information"
 ---
 
 ## Specifications
+
 | CONDE Pool                 |                                       |
 | ---------------------------|---------------------------------------|
 | Ticker | CONDE |
