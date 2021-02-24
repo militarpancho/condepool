@@ -5,7 +5,7 @@ title: "Fees information"
 | CONDE Fees      |             |
 | ----------------|-------------|
 | Fixed Fee | 340 |
-| Variable Fee | 1 % |
-| Initial Pledge | 450 ADA |
+| Variable Fee | 0 % |
+| Initial Pledge | 1500 ADA |
 
 
